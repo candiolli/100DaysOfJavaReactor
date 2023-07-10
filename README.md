@@ -1,7 +1,5 @@
 # 10 Weeks of Project Reactor
 
----
-
 100 Days of Java Reactor is an initiative that consisted of 100 days sharing content about Project Reactor on my social media.
 
 ### [Project Reactor](https://projectreactor.io/) is a Java Library to Create Efficient Reactive Systems
