@@ -1,4 +1,4 @@
-# 100 Days of Java Reactor
+# 10 Weeks of Project Reactor
 
 ---
 
