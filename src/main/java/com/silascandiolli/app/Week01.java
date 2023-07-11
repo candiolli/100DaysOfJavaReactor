@@ -5,7 +5,7 @@ import reactor.core.publisher.Mono;
 import java.util.Optional;
 import java.util.UUID;
 
-public class Day001 {
+public class Week01 {
 
     /**
      * This code is creating a Mono in 3 ways.

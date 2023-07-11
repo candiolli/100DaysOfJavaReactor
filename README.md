@@ -8,4 +8,4 @@ If you have any questions, ask me on my [Blog](https://silascandiolli.com/about)
 
 ***
 
-[Day 1: Creating a Mono and reading results](https://github.com/candiolli/100DaysOfJavaReactor/blob/main/src/main/java/com/silascandiolli/app/Day001.java)
+[Week 1: Creating a Mono and reading results](https://github.com/candiolli/100DaysOfJavaReactor/blob/main/src/main/java/com/silascandiolli/app/Week01.java)
